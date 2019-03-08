@@ -18,3 +18,25 @@ Grupo 2 CAI, Estación de Policía o Establecimiento Nocturno
 El sistema CAI, Estación de Policía o Establecimiento Nocturno es un espacio que cuenta con un área de influencia. Este sistema se propone para valorar si estos espacios en el territorio, sus atributos y factores favorecen la construcción de paz desde una desde una perspectiva de Paz negativa.
 Set de datos sugeridos: los cuales pueden ser consultados a través del Portal de Datos Abiertos de Colombia (https://www.datos.gov.co), DANE (https://microdatos.dane.gov.co) y en el repositorio que dispone la organización del evento en GitHub:
 https://github.com/datajamseguridadciudadana/Reto4
+
+Definiciones importantes: 
+La seguridad ciudadana se define como:
+•	“El derecho de los ciudadanos a vivir libres de toda forma de violencia y crimen en tiempos de paz”. [Banco Interamericano de Desarrollo, 2013].
+•	“Libertad de la violencia física y libertad del miedo a la violencia, aplicada a las vidas de todos los miembros de una sociedad. Esto abarca la seguridad en el hogar, en el lugar de trabajo y en las interacciones políticas, sociales y económicas con el Estado y otros miembros de la sociedad". [Banco Mundial, 2011].
+•	“La seguridad ciudadana se basa en la noción que los derechos de los ciudadanos a la vida y la propiedad están protegidos por un Estado y por instituciones que ejercen legítimamente la autoridad de gobierno”. [Este enfoque está respaldado por la Organización de los Estados Americanos y la Comisión Interamericana de Derechos Humanos]. 
+
+Otras consideraciones: 
+•	La seguridad ciudadana contribuye a los Objetivos de Desarrollo a largo plazo, al establecer y proteger la paz y la estabilidad. Incorpora la justicia social como su centro.
+
+•	La seguridad ciudadana abarca servicios de justicia accesibles, receptivos y efectivos; Imperio de la ley; tolerancia; y la cohesión social.
+
+•	USAID/Colombia está desarrollando una estrategia centrada en la seguridad ciudadana en todos sus portafolios y está examinando más de cerca cómo se relacionan las actividades actuales con la seguridad ciudadana y dónde puede haber brechas en las que la Misión debería enfocarse en el futuro.
+
+Ejemplos de trabajo relacionado con Seguridad Ciudadana: 
+
+•	Evaluación de Violencia Juvenil que ayudará a comprender la situación y las tendencias actuales de la violencia juvenil en Colombia y apoyará la Encuesta de Violencia contra los Niños, la primera de su tipo en Colombia. La evaluación identificará los factores de riesgo y protección en la reducción de la violencia contra los niños y adolescentes.
+
+•	Evaluación de Análisis de Economía Política, herramienta que ha ayudado a capacitar sobre el concepto, avances, políticas nacionales y arquitectura institucional para la seguridad ciudadana; y que ha contribuido como insumo para este Data Jam.
+
+•	Trabajo con actores estatales y de la sociedad civil a nivel local y nacional. Con esta actividad, USAID/Colombia espera reducir los factores de riesgo, fortalecer las acciones preventivas e inculcar mecanismos concretos y efectivos para empoderar a los ciudadanos a vivir libres de violencia.
+
