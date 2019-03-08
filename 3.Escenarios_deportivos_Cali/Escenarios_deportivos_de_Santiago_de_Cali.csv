@@ -1,0 +1,509 @@
+﻿No.,Nombre Unidad Recreativa,Escenarios Disponibles ,Direccion,Comuna,Cancha baloncesto,Cancha de tejo,Cancha de tenis,Cancha Futbol 5,Cancha Futbol 8,Cancha Futbol 11,Cancha Hockey,Cancha Multiple,Cancha Sintetica,Cancha Voleibol,Gimnasio,Juegos Biosaludables,Juegos Infantiles,Piscina adultos,Piscina Niños,Pista bicicros,Pista de trote,Pista patinaje,Kiosco,Sauna,Teatrino
+1,Parque Recreativo Alto Aguacatal Usaca,Cancha Futbol 11 Cancha Múltiple Juegos Infantiles,A 9 O  CON C 19C,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2,Coliseo Cubierto Bajo Aguacatal,Cancha Múltiple Gimnasio,A 15 O CON C 10,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+3,Polideportivo Las Malvinas,Cancha Futbol 5 Cancha Múltiple Juegos Infantiles,A 4 BIS O # 12B - 75,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,Parque Deportivo Entre Rios,Cancha Múltiple Juegos Infantiles,A 15 O CON C 4 Y 5,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,Parque Recreativo Jose Celestino Mutis,Cancha De Futbol 5 Pista De Trote Juegos Infantiles,A 6 O ENTRE C 17 Y 18,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+6,Urbanización Aguacatal,Cancha Múltiple ,A 12 O  CON C 15 ,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Urbanización La Fortuna,Cancha De Futbol 5,A 2 O ENTRE C 20A 1 - 20B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Cancha Múltiple Villa Del Mar,Cancha Múltiple Juegos Infantiles,A 8 O # 30C - 40,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+9,Unidad Recreativa Tory Castro,Piscinas Niños Piscinas Adultos Juegos Infantiles,C 19 # 4 BIS O - 50,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+10,Centro Cultural Vista Hermosa,Cancha De Futbol 5 Cancha De Baloncesto,A 5 O # 44 - 69,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Unidad Recreativa Brisas De Los Alamos,Cancha Sintética Cancha De Baloncesto Pista De Trote Piscina Adultos Piscina Niños Juego Infantiles,A 2B 2 # 73N BIS,2,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0
+12,Parque Recreativo Las Barras Barrio Brisas De Los Alamos,Cancha De Futbol 8 Cancha De Futbol 5 (2) Cancha De Baloncesto,A 2F CON C 72,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Cancha Múltiple Bataclan,Cancha Múltiple,A 10B # 12 N 47,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Unidad Recreativa Para La Tercera Edad,Cancha Múltiple Piscina Adultos,A 2 N # 32A - 05,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,Unidad Recreativa El Avión,Cancha Múltiple Piscina Adultos Piscina Niños,A 2 # 35A N - 04,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+16,Unidad Recreativa Pacara,Cancha Múltiple Cancha De Tenis Pista De Trote Piscina Niños Piscina Adultos,A 2G N # 52A N - 44,2,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+17,Unidad Recreativa Parque Del Amor,Cancha Múltiple Pista De Bicicross Pista De Patinaje,C 70 # 5 N - 21,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+18,Unidad Recreativa Rincon De Pacara,Cancha Múltiple Cancha Voleibol Piscina Niños Piscina Adultos,A 2G N # 58 N - 100,2,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+19,Pista De Trote La Flora,Pista De Trote Y Juegos Infantiles,C 58 CON A 3F N,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+20,Parque Biosaludable La Flora I,,C 62 N CON A 3F Y 4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Parque Recreativo La Flora,Pista de Patinaje Pista De Trote Juegos Infantiles,A 5A CON C  47A N Y 48A N,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0
+22,Unidad Recreativa Ciudad Los Alamos,Cancha Futbol 11 Cancha Futbol 5 Cancha De Tenis Cancha De Tejo Pista De Trote Piscina Niños Piscina Adultos Juegos Infantiles,C 62 N # 2F N - 30,2,0,1,1,1,0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+23,Cancha De Futbol Brisas De Los Alamos,Cancha De Futbol 5,A 2B N CON C 75C N BIS,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Cancha Múltiple Los Alamos,Cancha Múltiple,A 2D N CON C 56 N Y 58 N,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Parque Los Alamos,,A 2D CON C 58 Y 59,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Centro Múltiple Los Alamos,Pista De Patinaje,C 61 N CON A 2G,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,Polideportivo Vipasa,Cancha Múltiple Cancha Sintética Cancha De Baloncesto Pista De Trote Juegos Infantiles,C 47B N CON A 3C N,2,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+28,Cancha De Futbol La Merced,Cancha De Futbol 11,A 2A N CON C 50N,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Parque Recreativo La Merced,Cancha Múltiple Cancha De Baloncesto Pista De Trote Juegos Infantiles,A 2E N CON  C 47C N Y 49 N,2,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+30,Polideportivo La Isla,Cancha De Futbol 11 Cancha De Futbol 5 Cancha De Baloncesto,A 2 N CON C 39 Y 40,2,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Polideportivo La Campiña,Cancha De Futbol 11 Pista De Bicicross Juegos Infantiles,C 43 N Y 46 N CON A 8 N,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+32,Cancha Múltiple Los Cristales,Cancha Múltiple,K 14 CON C 6 O,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Cancha Múltiple Barrio Nacional,Cancha Múltiple Juegos Infantiles,K 18 CON C 6 O,3,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+34,Unidad Recreativa Cristales,Cancha Múltiple Piscinas Juegos,C 9 O CON K 14,3,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+35,Cancha De Futbol Bueno Madrid,Cancha De Futbol 11,C 34 N CON K 5 N,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Cancha De Futbolito Barrio Calima,Cancha De Futbol 5,K 9 N CON C 68 Y 69,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Cancha De Futbol Barrio Calima,Cancha De Futbol 11,C 70 CON K 5 N Y 7 N,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Cancha Múltiple Barrio Las Delicias,Cancha Múltiple  Juegos Infantiles,C 39 CON K 4,4,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+39,Cancha Múltiple Barrio Calima,Cancha Múltiple,C 70 CON K 4 N Y 5 N,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Cancha Múltiple Barrio Bueno Madrid,Cancha Múltiple,C 34 N Y 34A N CON K 3A N,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Cancha De Futbol Barrio Las Delicias,Cancha De Futbol 11,C 43 CON K 3 Y 3A,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Cancha De Futbol Berlín,Cancha De Futbol 11,C 31B CON K 3 Y 3A,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Polideportivo Barrio Salomia,Cancha De Futbol 5 Cancha De Baloncesto,C 45 CON K 1G Y 2,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Polideportivo Barrio Olaya Herrera,Cancha De Fubot 11 Cancha 5 Cancha De Baloncesto Pista De Trote Juegos Infantiles,K 8 N CON C 47 Y 49,4,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+46,Polideportivo Barrio Calima,Cancha Baloncesto Cancha Sintética Juegos Infantiles Juegos Biosaludables,K 7 N CON C 67,4,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+47,Polideportivo Barrio Calima (Coliseo),Cancha Múltiple Cancha De Baloncesto  Juegos Infantiles,K 5 N # 65 - 64,4,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+48,Parque Recreativo Las Bodegas Salomia,Cancha Múltiple Juegs Infantiles,C 45 CON K 1E Y 1F,4,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+49,Parque Recreativo  Barrio La Flora Industrial,Cancha De Futbol 5 Cancha De Baloncesto Pista De Trote Juegos Infantiles,C 59 CON 5 N Y 9 N,4,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+50,Parque Recreativo Nueva Salomia,Cancha De Baloncesto (2) Pista De Trote Juegos Infantiles,C 47 CON K 3 Y 4,4,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+51,Parque Recreativo Barrio Calima,Cancha Futbol 5 Cancha De Baloncesto Juegos Infantiles,C 66 CON K 4 N Y 4A N,4,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+52,Parque Recreativo Santander,Cancha Múltiple Juegos Infantiles,C 34 CON K 2,4,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+53,Parque Biosaludable Barrio La Esmeralda,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 41 CON K 6B,4,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+54,Pista De Patinaje Bueno Madrid,Pista De Patinaje,C 38 CON K 5 N,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+55,Polideportivo Barrio Berlin,Cancha Múltiple Cancha De Baloncesto Pista De Trote Juegos Infantiles,K 2A CON C 32 N,4,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+56,Pista De Trote Barrio Calima,Pista De Trote,K 9 N CON C 64 Y 69,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+57,Kiosco Brisas Del Guabito,Kiosco,K 6A CON C 68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+58,Kiosco Brisas De Los Andes,Kiosco,C 52 CON K 1C,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+59,Cancha Múltiple Urbanización Barranquilla,Cancha Múltiple Juegos Infantiles,K 1C CON C 62,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+60,Polideportivo Bajo Salomia,Cancha Múltiple Juegos Infantiles,K 5 CON C 51,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+61,Canchas Barrio Metropolitano Del Norte,Cancha De Futbol 8 Cancha Múltiple Pista De Trote,C 69 CON K 1B 1 Y 1B 2,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+62,Cancha De Futbol 8 Barrio Metropolitano,Cancha De Futbol 8,C 69 CON K 1 ,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Cancha Múltiple Barrio Veracruz,Cancha Múltiple Juego Infantiles,C 61 CON K 1D,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+64,Polideportivo Brisas De Los Andes,Cancha De Futbol 5 Cancha De Baloncesto Pista De Trote Juegos Infantiles,C 52 CON K 1C,5,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+65,Polideportivo Barrio Los Andes,Cancha De Futbol 5 Cancha De Baloncesto Pista De Trote Juegos Infantiles,K 1E Y 1F CON  C 52B Y 53,5,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+66,Polideportivo Brisas De Los Andes II Loma Perdida,Cancha De Futbol 11 Cancha De Futbol 5 Pista De Trote Juegos Infantiles,C 59 CON K 1F Y 1G,5,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+67,Polideportivo Barrio La Rivera Andes,Cancha De Futbol 8 Cancha Múltiple Pista De Trote Juegos Infantiles,C 59A Y 59C CON K 3 Y 3 BIS,5,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+68,Cancha Múltiple Ciudadela Santa Bárbara,Cancha Múltiple,C 68 CON K 5 Y 7,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Cancha De Tenis Rivera Andes,Cancha De Tenis,C 58 Y 59 CON K 3,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,Unidad Recreativa Plazas Verdes,Cancha Múltiple Cancha Voleibol Cancha De Tenis Piscinas Adultos,C 66 CON K 1A,5,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+71,Parque Recreativo  Villa Del Prado Sector 4,Cancha De Baloncesto Juegos Infantiles,C 59B CON K 4D,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+72,Parque Recreativo Villa Del Prado Sector 3,Cancha Múltiple Juegos Infantiles,C 59B CON K 4 Y 4A,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+73,Parque Recreativo Villa Del Prado Sector 5,Cancha De Baloncesto Juegos Infantiles,C 60D CON K 4B,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+74,Parque Recreativo Villa Del Prado Sector 7,Cancha De Baloncesto Juegos Infantiles,C 62 CON K 4A,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+75,Parque Recreativo Villa Del Prado Sector 6,Cancha De Baloncesto Pista De Trote Juegos Infantiles,C 61 CON K 4D,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+76,Parque Recreativo Villa Del Prado Sector 8,Cancha De Baloncesto Juegos Infantiles,C 62B Y 63A CON K 4D,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+77,Parque Recreativo Villa Del Sol,Cancha De Futbol 5 Cancha De Baloncesto Pista De Trote,C 62B CON K 1A 6,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+78,Parque Recreativo El Sena,Cancha Múltiple Juegos Infantiles,C 54 CON K 4C,5,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+79,Coliseo Barrio El Sena,Cancha Múltiple,C 46 # 2C - 05,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,Coliseo Metropolitano Del Norte,Cancha De Baloncesto,C 69 CON K 1A 11 Y 1A 12,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Cancha Múltiple Barrio Chiminangos,Cancha Múltiple,C 62 CON K 1C Y 1C 3,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Cancha De Futbol Chiminangos I,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,K 1C CON C 64 Y 67,5,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+83,Cancha De Futbol Chiminangos II,Cancha De Futbol 11 Cancha De Baloncesto Cancha De Voleibol,C 62 CON K 1A 6 Y 1A 11,5,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+84,Cancha De Baloncesto Chiminangos II,Cancha De Baloncesto ,C 62 CON K 1A 9 ,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Parque Recreativo Chiminangos II,Kiosco Juegos Infantiles,C 62B # 1A 9 - 250,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+86,Parque Recreativo Guayacanes II,Cancha Múltiple Kiosco,K 1D Y 1E CON 64 Y 67,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+87,Cancha Múltiple Guayacanes,Cancha Múltiple,C 64 Y 65 CON K 1A,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Polideportivo Torres De Comfandi,Cancha Múltiple (3),K 1C # 56 - 50,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,Polideportivo Brisas Del Guabito,Cancha De Futbol 11 Cancha Múltiple,K 6 CON C 64 Y 67,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,Polideportivo Los Almendros,Cancha De Futbol 5 Cancha Múltiple Cancha De Baloncesto Pista De Trote Pista De Patinaje Juegos Infantiles,C 62 CON K 2,5,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0
+91,Paseo Los Almendros,,C 59 Y 60 CON K 1A G,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Polideportivo Tejares De Salomia,Cancha Múltiple Juegos Infantiles Gimnasio Kiosco Edificación,C 71 # 4F - 11,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0
+92,Polideportivo Barrio Guayacanes,Cancha De Futbol 11 Cancha De Baloncesto Cancha De Voleibol Pista De Trote Juegos Infantiles,K 2 CON C 68 Y 69,5,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+93,Parque Recreativo Alcazares I,Cancha Múltiple Juegos Infantiles,C 70 CON K 1A 1,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+94,Parque Longitudinal Avenida Ciudad De Cali,Cancha De Futbol 5 Canch Múltiple,C 73CON K 1H,6,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Parque Recreativo Fonaviemcali,Cancha Múltiple Juegos Infantiles,C 70 CON K 1A 5,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+96,Parque Recreativo Nuevo Sol,Cancha Múltiple Pista De Trote Juegos Infantiles,K 1J CON C 78 BIS,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+97,Cancha De Futbol Barrio San Luis,Cancha De Futbol 11,K 1A Y 1B 2 C 71,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,Cancha De Futbol Chicaiza Floralia II,Cancha De Futbol 11 Cancha Baloncesto Pista Trote,C 72F Y 72L CON A 9 N,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+99,Cancha De Futbol Jorge Eliecer Gaitan,Cancha De Futbol 11,C 70 CON K 2A Y 2 BIS,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,Cancha De Futbol 5 Floralia I ,Cancha De Futbol 5 ,C 84 CON K 3 N,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Cancha De Futbol La Inmaculada Petecuy II,Cancha De Futbol 11 Cancha Baloncesto,C 76 CON K 1A 13 Y 1A 15,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Cancha Múltiple San Luis,Cancha Múltiple,C 73 CON K 1A 13,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,Cancha Sintética San Luis I,Cancha Sintética,C 71 CON K 1A 11,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+104,Cancha De Baloncesto Musley Floralia,Cancha De Baloncesto,C 84 CON K 5 N,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,Cancha De Baloncesto San Luis I,Cancha De Baloncesto,C 70 CON K 1A 9,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,Cancha De Futbol Barrio Los Alcazares I,Cancha Futbol 11,K 1 # 70 -45,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,Polideportivo Cancha Sintética Oasis De Comfandi,Cancha Futbol 8 Cancha Sintética Cancha Baloncesto Juegos Infantiles,C 71H CON K 3 N Y 3B N,6,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+108,Unidad Recreativa Calimio ,Cancha Múltiple Pista De Trote Piscina Adulto,C 76 # 1A - 12,6,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+109,Cancha Futbol 5 Floralia I,Cancha Futbol 5,C 84 CON K 3 N,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Polideportivo Floralia I - Cancha Futbol Americano,Cancha De Futbol 11 Cancha Baloncesto Pista Trote Juegos Infantiles,C 77 CON K 3A N Y 3B N,6,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+111,Polideportivo La Rivera I,Cancha De Futbol 11 Cancha Sintética Cancha Múltiple Juegos Infantiles,K 1J CON C 70B,6,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+112,Polideportivo San Luisito Barrio San Luis I,Cancha Múltiple Juegos Infantiles,C 72D Y 73 CON K 1A 1 Y 1A 2,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+113,Polideportivo San Luis II,Cancha De Futbol 11 Cancha Futbol 5 Cancha Baloncesto,C 72C Y 73 CON K 1A 4B,6,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,Cancha De Baloncesto Unicentro,Cancha  Baloncesto,K 90 CON C 13,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,Polideportivo Petecuy I,Cancha De Futbol 11 Cancha Baloncesto Juegos Infantiles,C 75 Y 77 CON K 2E,6,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+115,Polideportivo Petecuy II,Cancha De Futbol 11 Cancha Sintética Cancha Múltiple Juegos Infantiles,K 1C Y 1C 3 CON C 74 Y 77,6,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+116,Parque Recreativo Ciudadela Floralia,Cancha De Futbol 5 Cancha Múltiple Cancha De Voleibol Juegos Infantiles,K 3N CON 72A,6,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+117,Parque Recreativo Barrio Comfenalco I,Cancha De Futbol 5 Cancha Baloncesto Juegos Infantiles,K 1A N CON C 83,6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+118,Parque Recreativo Barrio Comfenalco II,Cancha De Futbol 5 Cancha Baloncesto Juegos Infantiles,K 73 CON K 1A N Y 1C N,6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+119,Parque Recreativo Los Guaduales Central,Cancha De Futbol 5 Cancha Baloncesto Juegos Infantiles,C 71H Y 71G CON K 6 N,6,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+120,Parque Recreativo Petecuy II,Cancha Múltiple Juegos Infantiles,K 1A 13 CON C 75 Y 76,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+121,Parque Recreativo Petecuy III,Cancha Múltiple,K 1D BIS CON C 77A,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Parque Recreativo Jorge Eliecer Gaitan,Cancha Múltiple Juegos Infantiles,C70 CON K 2A Y 2 BIS,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+123,Parque Recreativo Paso Del Comercio,Cancha Múltiple Cancha Baloncesto Juegos Infantiles,K 2 N CON C 71C,6,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+124,Cancha Múltiple Paso Del Comercio,Cancha Múltiple,C 71 CON K 1 ,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,Cancha De Futbol Petecuy II,,K 1C Y 1C 3 CON C 74 Y 77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Cancha De Futbol Petecuy III,Cancha De Futbol 11 Juegos Infantiles,C 77 CON K 1G,6,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+127,Polideportivo Estación De Policía Floralia II,Cancha De Futbol 11 Cancha 5 Cancha Múltiple Cancha Tenis Pista De Trote Juegos Infantiles,C 72F  CON K 3A N Y 3B N,6,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+128,Polideportivo Floralita,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 72F Y 72H CON A  8 N,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+129,Polideportivo La Horqueta Barrio Comfenalco,Cancha De Futbol 11 Cancha  Futbol 8 Cancha Futbol 5 Cancha Baloncesto Juegos Infantiles,C 77 Y 81 CON K 1F N,6,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+130,Polideportivo Puente Del Comercio,Cancha Múltiple Cancha Voleibol Pista De Trote Juegos Infantiles,C 70 CON K 3 N,6,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0
+131,Polideportivo Tejares De Salomia,Cancha Múltiple Juegos Infantiles,C 71 # 4F - 15,6,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+132,Cancha De Futbol Kokorico Floralia,Cancha De Futbol 11,C 77 Y 82 CON K 5,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,Cancha De Futbol Musley Floralia,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 82 CON K 7 Y 9,6,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+134,Pista De Patinaje Y Cancha De Jokey San Luis II,Cancha Hockey Pista De Patinaje,K 1A 3 # 72 - 65,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+135,Pista Bmx Freestyle Los Guaduales,Pista Bicicross,K 9 N # 71 - 35,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+136,Unidad Recreativa Los Guaduales,Cancha De Futbol 11 Cancha Múltiple Cancha Tejo Gimnasio Sauna Pista De Trote Piscina Adultos,K 9 N # 71 - 35,6,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0
+137,Pista De Trote Solares De Comfandi,Pista De Trote,K 5A CON C 72 Y 73,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+138,Cancha De Futbol San Luis II,Cancha De Futbol 11,C 72 C Y 73 CON K 1A 4,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Cancha Múltiple San Luis,Cancha Múltiple,CL 73 CON K 1A 13,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,Unidad Recreativa Petecuy I,Cancha De Futbol 5 Cancha Múltiple  Piscina Niños Piscina Adultos Juegos Infantiles,K 2E # 79 - 10,6,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+141,Unidad Recreativa San Luis,Cancha De Futbol 5 Cancha  Baloncesto Piscinas Niños Piscinas Adultos,C 70 # 1A - 12,6,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+142,Polideportivo Fepicol,Cancha Sintética Cancha Múltiple Juegos Infantiles,C 68A CON K 7C Y 7D,7,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+143,Cancha De Baloncesto,,C 72 J K 3A N,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Cancha Sintética Barrio 7 De Agosto,Cancha Sintética,C 72 CON K 11C,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+145,Parque Recreacional Y Cultural Las Acacias,Cancha De Futbol 11 Cancha Sintética Cancha Futbol 5 Cancha Baloncesto Juegos Infantiles,C 76 CON K 10 Y 12,7,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+146,Parque Recreativo  Alfonso Lopez II,Cancha De Futbol 11 Cancha Futbol 8 Cancha Futbol 5 Cancha Múltiple,C 81 CON K 7E Y 7H BIS,7,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,Parque Recreativo Separador Vial Alfonso Lopez I,Cancha De Futbol 11 Cancha Baloncesto Juegos Infantiles,C70 CON K 7A Y 7D,7,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+148,Parque Recreativo Separador Vial Alfonso Lopez II,Cancha De Futbol 11 Cancha Baloncesto,C 70 CON K 7L BIS,7,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,Parque Recreativo Julio Flores Barrio Alfonso Lopez,Cancha Múltiple  Juegos Infantiles,K 7A CON C 84,7,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+150,Cancha Múltiple Alfonso Lopez I,,C 81 CON K 7A BIS,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,Cancha Múltiple Alfonso Lopez II,,K 7G # 73 - 60,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,Cancha De Futbol La Galería Alfonso Lopez III,Cancha De Futbol 11 Cancha Múltiple Pista De Patinaje Juegos Infantiles,K 7T BIS CON C 77 Y 78,7,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+153,Cancha De Basquetbol Separador Vial,Cancha Baloncesto,C 70 CON  K 7E BIS,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Cancha De Futbol 5 Alfonso Lopez I,Cancha Futbol 5,C 72C CON K 7,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,Cancha De Futbol 5 El Bolsillo Barrio San Marino,Cancha Futbol 5 Juegos Infantiles,K 7C CON 61 Y 62,7,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+156,Cancha De Futbol Estación Policía Alfonso Lopez I,Cancha Futbol 5,K 7D Y 7D BIS CON C82,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+157,Polideportivo Alfonso Lopez I,,K 7C  CON C 81 ,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,Polideportivo Barrio La Veraneras,Cancha Sintética Cancha Múltiple Pista De Trote Juegos Infantiles,K 7J # 68A - 09,7,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+159,Polideportivo Puente Los Mil Días,Cancha Futbol 8 Cancha Futbol 5 Cancha Múltiple Pista Bicicross Juegos Infantiles,C 70 K 13 Y 15,7,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+160,Parque Recreativo Puerto Nuevo,Cancha De Futbol 11 Cancha Múltiple,C 88 CON K 7S,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,Parque Recreativo San Marino,Cancha Múltiple Juegos Infantiles,C 65 CON K 7C BIS,7,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+162,Polideportivo Puerto Mallarino,Cancha De Futbol 11 Cancha Futbol 5 Cancha Múltiple Juegos Infantiles,K 11 C 79 Y 81,7,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+163,Parque Recreativo Cali Bella,Cancha De Futbol 11 Cancha Múltiple Pista Trote,K 7B BIS C 65 Y 67,7,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+164,Parque Recreativo La Tarima Barrio Las Ceibas,Cancha Múltiple,K 7L BIS CON C 65,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,Parque Recreativo La Ceibas I,Pista Trote Juegos Infantiles,K 7S Y 7T CON C 65 Y 66,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+166,Parque Recreativo Las Ceibas II,Pista Trote Juegos Infantiles,K 7V BIS Y 8 CON C 61 Y 62,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+167,Parque Recreativo El Yucal Barrio Las Ceibas,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,K 7F CON C 61,7,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+168,Parque Infantil Cataño,Juegos Infantiles,K 7 BIS CON C 76,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+169,Unidad Recreativa Libardo Madrid,Cancha Baloncesto Juegos Infantiles Piscina Adultos,K 7S BIS CON C 76,7,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+170,Unidad Recreativa 7 De Agosto,Cancha Múltiple Piscina Niños Piscina Adultos Juegos Infantiles,C 72 # 8B - 11,7,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+171,Unidad Recreativa Barrio Las Ceibas,Cancha De Futbol 11 Cancha Sintética Cancha Múltiple Pista De Trote Juegos Infantiles Piscina Adultos,K 7R BIS # 61 - 12,7,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0
+172,Unidad Recreativa Acuaparque De La Caña,Cancha De Futbol 11 Cancha Futbol 5 (6) Cancha Múltiple (3) Cancha Baloncesto (6) Cancha Tenis (5) Pista De Trote Juegos Infantiles Piscina Niños Piscina Adultos,K 8 # 39 - 01,7,6,0,5,6,0,1,0,3,0,0,0,0,1,1,1,0,1,0,0,0,0
+173,Cancha Múltiple Barrio Atanasio Girardot,Cancha Múltiple,K 16 CON C 43,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,Cancha Múltiple Barrio Municipal,Cancha Múltiple Cancha Futbol 5,K 11 CON C 32 Y 32A,8,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,Cancha Múltiple Barrio Las Américas,Cancha Múltiple,C 39 CON K 13,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Centro Múltiple Santafé,Kiosco Cancha Múltiple Juegos Infantiles,K 18 # 34 - 115,8,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+177,Coliseo Las Américas,Cancha Múltiple,K 12 CON C 36 Y 39,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,Polideportivo Santafé,Cancha Sintética Juegos Infantiles,K 17B # 36 - 120,8,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+179,Polideportivo El Trébol,Cancha De Futbol 11 Cancha Múltiple Pista Trote Juegos Infantiles,C 58 CON K 12E Y 14,8,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+180,Polideportivo Barrio La Base,Cancha Múltiple Pista Trote Juegos Infantiles,C 56 Y 58 CON K 11 Y 12,8,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+181,Polideportivo Villa Colombia,Cancha Sintética Cancha Futbol 5 Cancha Baloncesto Cancha Voleibol,K 10 CON C 49 Y 50,8,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+182,Parque Recreativo Infantil Villa Colombia,Cancha Múltiple Juegos Infantiles,C 49 CON 12E Y 13,8,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+183,Parque Recreativo Nueva Base,Cancha Múltiple Juegos Infantiles,C 64 Y 70 CON K  12,8,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+184,Parque Recreativo La Base,Cancha Múltiple Cancha Futbol 5 Juegos Infantiles,C 62 CON K 11C Y 12 BIS,8,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+185,Parque El Osito Barrio La Floresta,Cancha Baloncesto Juegos Infantiles,C 33B CON K 17A,8,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+186,Parque Recreativo La Iguana Barrio Uribe Uribe,Cancha Múltiple,T 31 CON D 22,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,Kiosco Nueva Base ,Kiosco,C 66A Y 70 CON K 11A,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+188,Parque Recreativo Cien Palos,Cancha Múltiple Juegos Infantiles,C 18 CON K 19,9,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+189,Parque Recreativo Barrio El Obrero,Cancha Múltiple Cancha Baloncesto Juegos Infantiles,K 10 Y 11 CON C 22A Y 23,9,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+190,Parque Alameda,,C 7A CON 22 Y 23,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,Polideportivo El Obrero,Cancha De Futbol 11 Cancha Futbol 5 Cancha Múltiple,C 25 CON K 8 Y 10,9,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,Cancha Múltiple Las Acacias,Cancha Múltiple,C 23 Y 25 CON K 23,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,Unidad Recreativa Olímpico,Cancha De Futbol 11 Cancha Futbol 5 Cancha Baloncesto Piscina Adultos Juegos Infantiles,K 36A # 12 - 00,10,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+194,Parque Recreativo Colseguros Andes,Cancha Futbol 8 Cancha Múltiple Pista Patinaje Juegos Infantiles,C 12B Y 12C CON K 29B Y 31,10,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+195,Parque Recreativo Barrio Olímpico I,Cancha Múltiple Juegos Infantiles,K 34 CON C 12,10,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+196,Parque Recreativo Barrio Olímpico II,Cancha Futbol 5 Cancha Baloncesto Cancha Voleibol Juegos Infantiles,K 38 CON C 12,10,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+197,Parque Recreativo Barrio Panamericano,Cancha Múltiple Juegos Infantiles,K 46A CON C 12B,10,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+198,Parque Recreativo Jorge Zaeaski,Pista Trote Juegos Infantiles,K 49 Y 50 CON C 13C,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+199,Parque Recreativo Barrio Departamental,Cancha Múltiple Juegos Infantiles,K 46 Y 47 CON C 11,10,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+200,Parque Recreativo El Guabal,Cancha Baloncesto (2) Juegos Infantiles,K 41 Y 41B CON C 15,10,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+201,Polideportivo Villaepal,Cancha Múltiple Juegos Infantiles,K 49 CON C 10A,10,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+202,Polideportivo El Dorado I,Cancha De Futbol 11 Cancha Múltiple,C 13A Y 113C CON K 36 Y 37,10,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,Polideportivo San Cristóbal,Cancha De Futbol 11 Cancha Múltiple Pista Trote Juegos Infantiles,K 26 Y 28 CON C 23 Y 24,10,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+204,Polideportivo Barrio El Dorado II,Cancha Sintética Cancha Múltiple,C 13C K 37 Y39,10,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+205,Parque La India Barrio Santa Elena,,D 27 CON T 14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,Polideportivo Jorge Sawaski,Cancha Baloncesto Juegos Infantiles,K 48 CON C 13B Y 13C,10,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+207,Polideportivo Cristobal Colon,Cancha Sintética Cancha Múltiple Cancha Baloncesto Pista Trote Juegos Infantiles,C 23 CON K  37A,10,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0
+208,Cancha De Futbol Barrio San Judas,, K  40A CON  C 23,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Parque Recreativo San Judas Tadeo I,Cancha Múltiple Juegos Infantiles,K 49 CON C 23,10,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+210,Polideportivo San Judas Tadeo II,Cancha De Futbol 11 Cancha Múltiple Cancha Sintética Juegos Infantiles,K 42 Y 42A CON C 18 Y 23,10,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+211,Polideportivo La 23 San Judas,Cancha De Futbol 11 Cancha Múltiple Pista Trote Juegos Infantiles,K 39 Y 40 CON C 23,10,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+212,Polideportivo Paso Ancho,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,K 41 CON 12B,10,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+213,Polideportivo Barrio La Selva,Cancha De Futbol 11 Cancha Futbol 5 Cancha Baloncesto Cancha Múltiple Cancha Sintética Cancha Tenis Pista Trote Gimnasio Juegos Infantiles,C 14 # 47A - 10,10,1,0,1,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0
+214,Unidad Recreativa Barrio Los Castores,Cancha Múltiple Cancha Sintética Cancha Baloncesto Piscina Niños Piscina Adultos Sauna Juegos Infantiles,C 11 # 41A - 36,10,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,0
+215,Cancha Múltiple San Judas I,Cancha Múltiple (2) Pista Trote,K 40 CON C 17 Y 18,10,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0
+216,Unidad Recreativa El Guabal,Cancha Múltiple Cancha Futbol 5 Pista Trote Piscina Adultos Piscina Niños Juegos Infantiles,C 13 CON K 40,10,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0
+217,Unidad Recreativa Barrio Panamericano Los Panas,Cancha Sintética Cancha Baloncesto Piscina Adultos Piscina Niños Juegos Infantiles,K 49 CON C 12 Y 12B,10,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0
+218,Unidad Recreativa Descubrimiento,Cancha Múltiple Piscina Adultos,C 23 # 35 - 00,10,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+219,Cancha Múltiple Barrio Guabal,Cancha Múltiple,K 40 CON C 15,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,Polideportivo San Juan Bautista,Cancha De Futbol 11 Cancha Futbol 8 (2) Cancha Sintética Cancha Baloncesto Cancha Voleibol Pista Trote Juegos Infantiles,C 13A  Y 13C  K 42A Y 41,10,1,0,0,0,2,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0
+221,Kiosco 3° Edad Centro Múltiple Rocio La Selva,Kiosco,C 14 # 47A - 10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+222,Kiosco 3° Edad Anhelos De Vivir,Kiosco,K 41 # 13C - 18,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+223,Kiosco Mañanitas Del Guabal,Kiosco,C 13 # 42 BIS - 09,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+224,Kiosco Mañanitas Del Guabal,Kiosco,K 42A # 13A - 01,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+225,Parque Recreativo San Benito,Cancha Sintética Juegos Infantiles,T 27 CON D 28D,11,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+226,Parque Recreativo San Benito,Cancha Múltiple Pista Trote,C 32 CON K 26 Y 27,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+227,Parque Recreativo Barrio Aguablanca,Cancha Futbol 8 Cancha Baloncesto Juegos Infantiles,C 26 B CON K 24 Y 25,11,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+228,Parque Recreativo Barrio La Independencia,Cancha Múltiple Juegos Infantiles,K 41B CON C 30,11,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+229,Parque Recreativo El Recuerdo,Cancha Futbol 8 Cancha Baloncesto Juegos Infantiles,C 30 CON K 27,11,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+230,Polideportivo Barrio La Esperanza,Cancha Múltiple (2) Cancha Baloncesto Pista Trote,C 26C # 37 - 21,11,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0
+231,Polideportivo Barrio 20 De Julio,Cancha Múltiple Juegos Infantiles Teatrino,D 22 Y 23 K 23A,11,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+232,Polideportivo La Fortaleza,Cancha De futbol 11 Cancha Sintética Cancha Baloncesto,K 30A CON C 31A,11,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+233,Polideportivo San Pedro Clavel,Cancha Sintética Cancha Múltiple Juegos Infantiles,D 31A CON K 30 Y 31,11,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+234,Polideportivo La Gran Colombia,Cancha Futbol 8 Cancha Múltiple Juegos Infantiles,D 33 CON K 32C Y 33A,11,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+235,Polideportivo Barrio San Carlos,Cancha De Futbol 11 Cancha Futbol 5 Cancha Baloncesto Juegos Infantiles,K 33A Y 34 CON C 29 Y 31,11,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+236,Polideportivo Barrio El Jardín,Cancha Baloncesto,K 31 Y 31A CON C 26E Y 27,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,Unidad Recreativa Barrio Villa Del Sur,Cancha De futbol 11 Cancha Múltiple Cancha Baloncesto Pista Trote Piscina Niños Piscina Adultos,K  43 CON C 26 Y 26C,11,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+238,Cancha Múltiple Barrio El Jardín,Cancha Baloncesto,K 27 CON  C 33A,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,Parque Recreativo Barrio El Jardín,Cancha Baloncesto Pista Trote Juegos Infantiles,K 27 CON C 37,11,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+240,Cancha De Futbol Barrio San Carlos,Cancha De Futbol 11 Cancha Futbol5 Cancha Múltiple Cancha Baloncesto Juegos Infantiles,K 33A CON C 30 Y 31,11,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+241,Cancha Múltiple Jose Holgin,Cancha Múltiple,K 48 CON C 26,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,Cancha De Baloncesto Barrio San Carlos,Cancha Baloncesto,K 32B Y 33 CON C 31,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Cancha De Futbol Barrio Primavera,Cancha De Futbol 11 Pista Trote,K 33A Y 34 CON C 34 Y 34B,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+244,Cancha De Baloncesto El Jardín,Cancha Baloncesto,K 29 BIS CON C 29,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,Cancha De Futbol 5 Barrio San Carlos ,Cancha Futbol 5 Juegos Infantiles,K 36AY 37 CON C 31 Y 32,11,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+247,Cancha De Futbol Barrio Villa Del Sur,Cancha De Futbol 11,K 46 CON C 26 Y 26C,11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Cancha Múltiple Jose Maria Cordoba,Cancha Múltiple,K 33B Y 34 CON C 32A,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,Parque Biosaludable Ciudad Modelo,Cancha Múltiple Juegos Infantiles,K 39 CON C  32,11,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+250,Parque Tertualidero 3° Edad Barrio San Carlos,Cancha Futbol 8 Cancha Futbol 5 Kiosco,K 37 # 32 - 53,11,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+251,Cancha Múltiple Terpel Ciudad Modelo,Cancha Múltiple,K 41 CON C 31B,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,Cancha Múltiple Ciudad Modelo,Cancha Múltiple,C 31 CON  K  41 Y 41A,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,Barrio Villa Del Sur,,K 28B CON C 46C ,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254, Polideportivo Prados De Oriente,Cancha Múltiple Cancha Baloncesto Juegos Infantiles Edificación,K 24A  CON C 28A Y 29,11,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+255,Polideportivo Recreativa Primavera,Cancha Futbol 5 Cancha Múltiple Juegos Infantiles,K 33A CON C 35 Y 35A,11,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+257,Cancha De Futbol La Bombonera,Cancha De Futbol 11 Cancha Baloncesto,K 36A CON C 29,11,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,Kiosco 3° Edad Villa Del Sur ,Kiosco,C 26B CON K 42A,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+259,Kiosco 3° Edad San Benito,Kiosco,C 32 CON K 27,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+260,Unidad Recreativa Doce De Octubre,Cancha De Futbol 11 Cancha Sintética Cancha Baloncesto Pista Trote Piscina Niños Piscina Adultos Juegos Infantiles,C 50 CON K 28F,12,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0
+261,Unidad Recreativa La Tortuga,Cancha Múltiple Piscina Niños Piscina Adultos,C 44 # 24C - 03,12,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+262,Parque Recreativo Alfonso Barberena,Cancha Múltiple Juegos Infantiles,K 25 CON C 33C,12,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+263,Parque Infantil Nueva Floresta,Kiosco Juegos Infantiles,K 25B # 57 - 04,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+264,Parque Infantil Juan Pablo II,Cancha Baloncesto Juegos Infantiles,K 26 #  51 - 04,12,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+265,Polideportivo El Trébol Barrio Nueva Floresta,Cancha De Futbol 11 Cancha Múltiple Pista Patinaje Juegos Infantiles,K 24A CON C  57 Y 59,12,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+266,Cancha Múltiple Barrio Nueva Floresta,Cancha Múltiple,C 59 CON K 25A,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Polideportivo Barrio Sindical,Cancha Sintética Cancha Múltiple Pista Patinaje Juegos Infantiles,K 28C Y 28D CON C 44 Y 50,12,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+268,Parque Recreativo Julio Rincon,Cancha Múltiple,C 54 CON K 28E,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,Cancha Múltiple Asturias,Cancha Múltiple,C 44 CON K 24B,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,Cancha De Futbol Fenalco Kenedy,Cancha De Futbol 11 Cancha Múltiple,K 25A Y 26 CON C 44 Y 49,12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,Cancha Múltiple Ricardo Balcazar,Cancha Múltiple,D 71B CON K 26D Y 26J,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,Cancha Múltiple Nuevo Horizonte,Cancha Múltiple,T 28F CON C 72F S,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,Parque Recreativo Calipso I,Cancha Baloncesto,C 72 Y 72A CON K 28E,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,Parque Recreativo Calipso II,Cancha Futbol 5 Cancha Múltiple Pista Patinaje Pista Trote Juegos Infantiles,C 71 Y 72B CON K 28D 3,13,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0
+275,Parque Recreativo El Laguito,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 72F CON K 26H 2,13,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+276,Parque Recreativo La Hormiga Comuneros II,Cancha Futbol 5 Juegos Infantiles,C 74F 4 CON K 28D 2,13,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+277,Cancha Sintética Calipso III,Cancha Sintética,C 72H CON T 28E,13,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+278,Cancha De Baloncesto Calipso III,Cancha Baloncesto,C 72F 3 CON K 28D 3,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,Cancha De Futbol La Cero Comuneros II,Cancha De Futbol 11,C 72F Y 72H CON K 28A Y 28 - 3,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,Polideportivo Ulpiano Lloreda,Cancha De Futbol 11 Cancha Futbol 5 Cancha Múltiple,K 24 CON C 72,13,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,Polideportivo Barrio Carlos Lleras Restrepo,Cancha Baloncesto,C 72 CON K 26H,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,Polideportivo La Paz,Cancha De Futbol 11 (2) Cancha Múltiple (4),C 72P CON K 26L Y 27,13,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,Cancha Múltiple Los Lagos I,Cancha Múltiple Juegos Infantiles,C 72W CON K 26P,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+284,Cancha De Futbol Los Lagos II,Cancha De Futbol 11 Pista Trote,C 72P CON K 26I 1 Y 26J.,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+285,Cancha Múltiple Robles,Cancha Múltiple Juegos Infantiles,C 72L CON K 28D 3 T 28F,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+286,Parque Recreativo Villa Del Lago,Cancha De Futbol 11 Pista Trote,D 71A 1 CON K 25E Y 25G,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+287,Parque Recreativo El Pondaje,Cancha  Futbol 5 Cancha Múltiple Juegos Infantiles,C 71B CON K 28C,13,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+288,Parque Recreativo Ulpiano Lloreda,Cancha Múltiple Pista Trote Juegos Infantiles,C 72 CON K 26A Y 26B,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+289,Parque Recreativo Ricardo Balcazar,Cancha Múltiple Pista Patinaje Juegos Infantiles,D 70 CON C 26I,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+290,Cancha De Futbol Ricardo Balcazar,Cancha De Futbol 11 Cancha Múltiple,C 26L CON D 71C Y 72A,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,Cancha De Futbol Los Robles,Cancha Futbol 5,C 72T 1 CON K 28E,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Cancha Múltiple Robles,Cancha Múltiple,C 72S CON K 28E 4,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Cancha Múltiple Unik Poblado I,Cancha Múltiple,C 72O CON K 28I,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Polideportivo Las Gemelas Poblado I,Cancha Sintética Cancha Múltiple Juegos Infantiles,C 72K Y 72M CON K 28H Y 28I,13,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+295,Cancha Múltiple Longitudinal Poblado II Sector Sena,Cancha Múltiple,C 72W CON K 28E 1 Y 28E 2,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,Cancha Múltiple Longitudinal Poblado II ,Cancha Múltiple,C 72W CON K 28A Y 28A 1,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Cancha Múltiple El Poblado II,Cancha Múltiple Juegos Infantiles,C 72V CON K 28E,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+298,Parque Recreativo El Poblado II,Cancha Múltiple (2) Juegos Infantiles,K 28 - 1 CON C 72Z,13,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+299,Polideportivo Marroquín III,Cancha De Futbol 11 Cancha Múltiple Cancha Baloncesto Pista Trote Juegos Infantiles,C 72P CON K 28M,13,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+300,Cancha Múltiple Yira Castro,Cancha Múltiple Juegos Infantiles,D 28D CON C 72F 1,13,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+301,Cancha Múltiple Charco Azul,Cancha Múltiple,C 72 U CON K 25O Y 25P,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Cancha Múltiple Carcho Azul,Cancha Múltiple,C 72U CON K 25U,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Cancha De Futbol Charco Azul,Cancha De Futbol 11,D 71A 1 CON K 24,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,Cancha De Futbol Villa Blanca,Cancha De Futbol 11,D 72F CON K 26L,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,Unidad Recreativa El Diamante,Cancha De Futbol 11 Cancha Futbol 5 Cancha Múltiple Piscina Niños Piscina Adultos,K 31 # 40 - 12,13,0,0,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+306,Unidad Recreativa El Poblado,Cancha Futbol 5 Cancha Múltiple,K 29C # 43A - 00,13,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,Unidad Recreativa Villa Del Lago,Cancha De Futbol 11 Cancha Futbol 5 Cancha Baloncesto Piscina Niños,D 71A 1 # 25C - 01,13,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+308,Centro Múltiple Comuneros II,Cancha Futbol 5 Cancha Baloncesto Juegos Infantiles,K 28A Y 28A 1 CON C 72T Y 72U,13,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+309,Parque Recreativo Gabriela Mistral,Cancha Múltiple Juegos Infantiles Pista Trote,C 95 Y 97 CON K 27D Y 27G,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+310,Parque Recreativo Puertas Del Sol I,Cancha Múltiple Cancha Baloncesto,C 80E CON K 26C,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Polideportivo  Marroquín II,Cancha De Futbol 11 Cancha Múltiple,D 26i 2 T 87,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,Polideportivo Ciudadela Invicali,Cancha De Futbol 11 Cancha Múltiple Pista Trote Juegos Infantiles,C 116 CON K 26B 1 Y 26B 3,14,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+313,Polideportivo Los Naranjos II,Cancha De Futbol 11 Cancha Múltiple,C 84 CON K 26C,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,Centro Múltiple Adulto Mayor,Kiosco,D 26P 16 # 104 - 2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+315,Cancha De Futbol Puertas Del Sol  Sector I,Cancha De Futbol  11,C 84 K 26G Y 26F,14,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,Cancha De Futbol Puertas De Sol Iv,Cancha De Futbol 11,C 94 CON K 26,14,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,Cancha De Futbol 5 La Polvoreda,Cancha Futbol 5,K 26P Y 26T CON C 88 Y 91,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318,Cancha De Futbol Manuela Beltrán,Cancha De Futbol 11,C 116 CON K 28I,14,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,Unidad Recreativa Manuela Beltrán,Cancha De Futbol 11 Piscina Niños Piscina Adultos,K 26O Y 26S C 116,14,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+320,Unidad Recreativa Promoción Popular Barrio Puertas De Sol V,Cancha De Futbol 11 Cancha Sintética Cancha Múltiple Cancha Minibaloncesto Pista Trote Juegos Infantiles Piscina Niños Piscina Adultos,K 26G CON D 108,14,1,0,0,0,0,1,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0
+321,Parque Recreativo Los Naranjos I,Cancha Múltiple Juegos Infantiles Pista Trote,C 75 CON 26G 3,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+322,Parque Recreativo La Candelaria Barrio Alfonso Bonilla Aragón,Cancha Múltiple Juegos Infantiles,C 78A Y 81 CON K 27B Y 27C,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+323,Cancha Múltiple Los Naranjos II,Cancha Múltiple Juegos Infantiles,C 80D 1 K 26D,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+324,Cancha Múltiple CAI Barrio Alfonso Bonilla Aragón,Cancha Múltiple Juegos Infantiles,T 103 CON K 28 Y 28E ,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+325,Cancha Múltiple Puertas De Sol 5,Cancha Múltiple Juegos Infantiles,C 91 CON K 26D,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+326,Coliseo Multifuncional Los Naranjos,,C 80 CON  T 103,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,Cancha Múltiple Interavenidas,Cancha Múltiple Juegos Infantiles,T 103 CON D 26P 16,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+328,Cancha Múltiple San Marcos,Cancha Múltiple,C 87 Y 89 CON K 26C,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,Cancha Múltiple Quintas Del Sol,Cancha Múltiple,C 80 CON K 26,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,Cancha Sintética Los Naranjos II,Cancha Sintética,C 80 CON K 26D,14,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+331,Cancha Múltiple Manuela Beltrán,Cancha Múltiple (2),C 112 CON K 28C,14,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,Parque Recreativo Ciudadela San Marcos,Cancha Múltiple Juegos Infantiles,C 90 CON K26G Y 26G 3,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+333,Parque Recreativo Nuestra Señora Aguablanca Barrio Manuela Beltrán,Cancha Múltiple Juegos Infantiles,C 110 CON K 28H 1,14,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+334,La Bombonera Villa De San Marcos,,C 97 CON K 26,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,Polideportivo Villa San Marcos ,Cancha Múltiple Cancha Baloncesto,C 96 Y 99 CON K 26G,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Polideportivo Pilar Tairona II,Cancha Múltiple  Pista Trote Pista Patinaje Juegos Infantiles,K 28D # 85 - 15,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,Puertas Del Sol IV,,K 26 CON D 108,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,Cancha De Futbol La Libertad Alfonso Bonilla Aragón,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 86 Y 90 CON K 27B Y 27D,14,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+339,Parque Recreativo Los Mangos Barrio Alfonso Bonilla Aragón,Cancha Futbol 8 Cancha Futbol 5 Cancha Múltiple Juegos Infantiles,C 93 Y 95 CON K 28 Y 28 - 3,14,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+340,Cancha De Futbol Alfonso Bonilla Aragón Sector Caney,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 75 CON K 26S Y 26U,14,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+341,Polideportivo Las Orquídeas,Cancha Futbol 5 Cancha Múltiple (2) Juegos Infantiles,C 109 CON K 27D,14,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+342,Polideportivo Alirio Mora Beltrán,Cancha De Futbol 11 Cancha Múltiple,C 79 Y 80 CON K 26,14,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,Polideportivo Los Naranjos I,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 76  Y 77 CON K26G 3,14,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+344,Cancha De Futbol Kaliman Las Orquídeas,Cancha De Futbol 11 Juegos Infantiles,C 107B CON K 28 - 4,14,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+345,Parque Recreativo Las Orquídeas,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,C 114 Y 117 CON K 27D Y 27F,14,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+346,Parque Puertas Del Sol Iv,,C 94 CON K 26D,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Coliseo Puertas Del Sol Iv,,C 94 CON K 26G,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,Parque Recreativo Morichal De Comfandi,,C 54E CON K 42D,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,Parque Recreativo Morichal I,Cancha Múltiple Juegos Infantiles,K 43B CON C 57,15,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+350,Parque Recreativo Morichal II,Cancha Múltiple Juegos Infantiles,K 28B CON C 56C,15,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+351,Parque Recreativo Morichal III,Cancha Múltiple Juegos Infantiles,K 43B Y 44C CON C 55 Y 56,15,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+352,Parque Recreativo Comuneros I,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,K 32A CON C 57,15,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+353,Parque Recreativo el Pascualito El Vallado II,Cancha De Futbol 11 Cancha Múltiple,K 39C Y 40 CON 57,15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Parque Recreativo Los Bomberos El Vallado II,Cancha Múltiple,K 39G Y 39H CON C 56 Y 57,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,Polideportivo  Barrio Ciudad Cordoba Sector 1a,Cancha De Futbol 11 (2) Cancha Baloncesto (4) Pista Trote Juegos Infantiles,K 46 Y 49D  CON C 50 Y 51,15,4,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+356,Parque Recreativo Bajo De Ciudad Cordoba ,Cancha Múltiple (2) Pista Trote Juegos Infantiles,K 41E 3 CON C 55 Y 56,15,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,0
+357,Polideportivo Barrio Ciudad Cordoba Sector 3,Cancha De Futbol 11 Cancha Múltiple Pista Trote Juegos Infantiles,K 42B Y 46 CON C 50 Y 51,15,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+358,Polideportivo Barrio Ciudad Cordoba Sector 3a Y 3b,Cancha De Futbol 11 (2) Cancha Baloncesto (2) Pista Patinaje Pista Trote Juegos Infantiles,K 41B Y 42B CON C 50 Y 51,15,2,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0
+359,Polideportivo Barrio El Vallado,Cancha Múltiple (2) Cancha Sintética (2) Pista Patinaje Juegos Infantiles,K 41B CON C 50 Y 51,15,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,1,0,0,0
+360,Unidad Recreativa El Vallado,Cancha De Futbol 11 Cancha Múltiple (3) Piscina Niños Piscina Adultos,K 41 # 54 - 55,15,0,0,0,0,0,1,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0
+361,Unidad Recreativa Laureano Gomez,Cancha Múltiple (2) Piscina Adultos,K 32A # 49 - 45,15,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+362,Cancha Múltiple Comuneros I,Cancha Múltiple,K 28F CON C 74,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,Cancha Múltiple Comuneros I,Cancha Múltiple Juegos Infantiles,K 32C CON C 55A,15,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+364,Cancha De Futbol Montebello Mojica II,Cancha De Futbol 11,K 28E 3 Y 28E 6 CON C 79 Y 83,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,Parque La Bombonera Mojica II,Cancha Múltiple Juegos Infantiles,K 28D Y 2D4 CON C 81,15,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+366,Cancha Múltiple Suley Vallado I,Cancha Múltiple,K 39H CON C 49,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,Cancha Múltiple Ciudad Cordoba Sector 3,Cancha Múltiple,K 41E 2 CON C 51,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,Parque Recreativo La Amistad El Vallado II,Cancha Múltiple,K 38 Y 38B CON C 56,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,Parque Recreativo Cancha Gemelas Mojicas II,Cancha Futbol 8 Cancha Múltiple (2) Juegos Infantiles,K 28E 2 CON C 72Y Y 72Z 2,15,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+370,Cancha Múltiple Secon Barrio El Retiro,Cancha Múltiple,K 33C CON C 84A,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,Cancha Múltiple Barrio El Retiro,Cancha Múltiple,K 39A Y 39B CON C 48A Y 49,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,Cancha Múltiple África Barrio El Retiro,Cancha Múltiple,K 39 CON C 54,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Cancha Múltiple Guadalaja El Vallado II,Cancha Múltiple,K 39B Y 39C CON C 56,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,Cancha Baloncesto La Colmena Barrio El Vallado,Cancha Baloncesto,K 40B Y 41 CON C 52 Y 52A,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,Cancha De Futbol Barrio el Retiro,Cancha De Futbol 11,K 36 CON C 48A,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Kiosco Morichal II,Kiosco,K 43B Y 44C CON C 55 Y 56,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+377,Kiosco Bajos De Ciudad Cordoba,Kiosco,K 41E 3 CON C 55 Y 56,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+378,Parque Recreativo Antonio Nariño,Cancha Múltiple Juegos Infantiles,K 40 CON C 43,16,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+379,Parque Recreativo Republica De Israel,Cancha Futbol 5 (2) Cancha Múltiple ,K 43 CON C 41,16,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,Unidad Recreativa Mariano Ramos,Cancha De Futbol 11 Cancha Futbol 5 Cancha Sintética  Cancha Baloncesto (3) Pista Trote Gimnasio Piscina Adultos Piscina Niños Juegos Infantiles,C 36 Y 40 CON K 48 Y 50,16,3,0,0,1,0,1,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0
+381,Parque Recreativo Mariano Ramos,Cancha Múltiple (2) Juegos Infantiles,K 47 CON C 40,16,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+382,Polideportivo Ciudad 2000,Cancha De Futbol 11 Cancha Múltiple Cancha Sintética Juegos Infantiles,C 34 CON K 68 Y 68A,16,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+383,Unidad Deportiva Las Palmas Antonio Nariño,Cancha De Futbol 11 Cancha Sintética Piscina Niños Piscina Adultos ,K 40 CON C 44,16,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+384,Polideportivo Cristo Maestro Barrio La Unión,Cancha De Futbol 11 Cancha Futbol 5 Cancha Baloncesto Pista Trote Juegos Infantiles,K 41H CON C 44 Y 46,16,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+385,Unidad Recreativa Marino Rengifo Barrio Union De Vivienda Popular,Cancha Sintética Cancha Baloncesto Cancha Voleibol Piscina Niños Piscina Adultos Juegos Infantiles,K 41H # 38 - 75,16,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0
+386,Polideportivo Republica De Israel,Cancha De Futbol 11 Cancha Futbol 5 Cancha Múltiple Cancha Baloncesto (2) Juegos Infantiles,K 43 Y 43B CON C 44 Y 46,16,2,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+387,Polideportivo Cancha Futbol Sport Boys,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,K 47B Y 48 CON C 44 Y 46,16,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+388,Polideportivo Unión De Vivienda Popular,Cancha Futbol 5 Cancha Baloncesto Pista Patinaje,K 41H CON C 38,16,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+389,Cancha Múltiple Barrio Ciudad Cordoba,Cancha Múltiple Juegos Infantiles,K 49A Y 50 CON C 46,16,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+390,Cancha Sintética Ciudad 2000,,C 34  # 68A - 21,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,Cancha Sintética Republica De Israel ,Cancha Sintética,K 43B CON C 38 Y 39A,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+392,Cancha De Futbol 5 Brisas Del Limonar,Cancha Futbol 5 Juegos Infantiles,D 58 CON C42,16,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+393,Cancha De Futbol Nuevo Rey ,Cancha De Futbol 11,K 70 CON C 11 Y  12,17,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,Cancha De Futbol Barrio El Caney,Cancha De Futbol 11,C 42 Y 45 CON K 80,17,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Cancha De Futbol Gran Limonar Cataya,Cancha De Futbol 11,K 65 CON C11A,17,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,Cancha De Futbol Primero De Mayo, Cancha De Futbol 11,K 56 Y 57 CON C 13F Y 14,17,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,Cancha Múltiple Bosques Del Limonar,Cancha Múltiple,K 63 CON C 15,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Cancha Múltiple El Limonar,Cancha Múltiple,C 13A CON K 68 Y68A,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+400, ,CANCHA MÚLTIPLE (2) CANCHA VOLEIBOL PISCINA ADULTOS PISCINA NIÑOS JUEGOS INFANTILES,K 61 # 18A - 35,17,0,0,0,0,0,0,0,2,0,1,0,0,1,1,1,0,0,0,0,0,0
+401,Unidad Recreativa Primero De Mayo,Cancha Múltiple Piscina Niños Juegos Infantiles,K 50 Y 51 CON C 13E Y 13F,17,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+402,Unidad Recreativa Ciudadela De Comfandi,Cancha De Futbol 11 Cancha Futbol 5 Cancha Múltiple,K 80 Y 81 CON C 38,17,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,Parque Recreativo Altos De Caney,,K 85C CON C 42,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Parque Recreativo El Caney,Cancha Futbol 5 (2) Cancha Múltiple ,K 85 CON  C 36 Y 42,17,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,Parque Recreativo Primero De Mayo,Cancha Futbol 5 Cancha Múltiple Pista Trote Juegos Infantiles,K 57 CON C 13C Y 14,17,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+406,Parque Recreativo Cañaveral 3,Cancha Futbol 5 Cancha Múltiple Juegos Infantiles,K 62 Y 63 CON C 18,17,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+407,Parque Recreativo Ciudad Capri,Cancha Múltiple Cancha baloncesto Cancha Voleibol Pista Trote Juegos Infantiles,K 76 CON C 10,17,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+408,Parque Recreativo Santa Anita,Cancha Futbol 5 Cancha Múltiple Cancha Baloncesto Cancha Voleibol Pista Trote Juegos Infantiles,C 11 Y 11A CON K 51 Y 53,17,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0
+409,Parque Recreativo Villa Campestre Del Rio II,Cancha Múltiple ,C 14C CON K 74 Y 75A,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,Cancha De Baloncesto Barrio Caney Especial,Cancha Baloncesto Pista Trote,K 74 CON C 36 Y 38,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+411,Parque Recreativo Barrio Las Camelias,,C 14 CON K 50 Y 50A,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Parque Recreativo Santa Ana,Cancha Futbol 8 Cancha Futbol 5 Cancha Múltiple Cancha Baloncesto Pista Trote, K 60 CON C 11 Y 13,17,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+413,Parque Recreativo La Hacienda,Cancha Múltiple (2) Cancha Futbol 5 Pista Trote Juegos Infantiles,C 15 CON K 68,17,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,0
+414,Parque Recreativo Mayapan ,Cancha Múltiple Cancha Voleibol Juegos Infantiles,K 80 Y 81 CON C 6A,17,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+415,Cancha De Futbol Prados Del Limonar,Cancha De Futbol 11 Pista Trote Juegos Infantiles,K 77 Y 78 CON C 15 Y 17,17,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+416,Kiosco Bosques Del Limonar,Kiosco,C 14C CON K 65,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+417,Kiosco Tercera Edad Capri,Kiosco,C 10A # 78A - 05,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+418,Kiosco Adulto Mayor Bosques Del Limonar,Kiosco,C 13E # 64 - 08,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+419,Polideportivo La Playa,Cancha Múltiple Juegos Infantiles,K 96 # 7A - 01,17,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+420,Parque Recreativo Bosques Del Limonar,Cancha De Futbol 11 Cancha Múltiple Cancha Tenis Pista Trote Juegos Infantiles,C 14C CON K 65,17,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+421,Parque Recreativo Bosques Del Limonar,Cancha Futbol 5 Pista Trote Juegos Infantiles,C 13A CON K 66B,17,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+422,Parque Recreativo Ciudadela Comfandi,Cancha De Futbol 11 Cancha Múltiple,K 83 CON C 34,17,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,Polideportivo Francisco Eladio,Cancha De Futbol 11 Cancha Múltiple (2) Pista Trote Juegos Infantiles,K 76B Y 77 CON  C 3 Y 3D,18,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,1,0,0,0,0
+424,Parque Recreativo Buenos Aires,Cancha Múltiple Juegos Infantiles,C 3C CON K 70 Y 72,18,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+425,Parque Recreativo Los Farallones,Cancha Múltiple (2) Cancha Baloncesto Pista Trote Pista Trote,K 74 CON C 1C BIS,18,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0
+426,Unidad Recreativa Horizontes Wembley,Cancha De Futbol 11 Cancha Baloncesto Piscinas Adultos Piscinas Niños Juegos Infantiles,K 94 CON C 4,18,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+427,Unidad Recreativa Quintas Del Refugio,Cancha Múltiple Cancha Voleibol Piscina Niños Piscina Adultos Juegos infantiles,K 68 # 1B - 34,18,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+428,Parque Recreativo Prados Del Sur,Cancha De Futbol 11 Cancha Baloncesto Juegos Infantiles,K 76 CON C 1B Y 1C,18,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+429,Cancha De Baloncesto Buenos Aires,Cancha Baloncesto,C 2C CON K 71,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,Cancha De Baloncesto Barrio Alférez Real,Cancha Baloncesto Juegos Infantiles,C 3D CON K 73,18,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+431,Cancha Baloncesto Servivienda Barrio Bajo Polvorines,Cancha Baloncesto Juegos Infantiles,C 1 O CON K 94C,18,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+432,Cancha Múltiple Barrio Los Chorros,Cancha Múltiple,K 74 CON C 2C 4 O,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,Cancha Múltiple Barrio La Arbolada,Cancha Múltiple,C 3 O CON 93 BIS,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,Cancha Múltiple Las Piñuelas Barrio Alto Melendez,Cancha Múltiple,C 1A 1 O CON K 96,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,Polideportivo Barrio Colinas Del Sur,Cancha De Futbol 11 Cancha Futbol 5 Juegos Infantiles,C 2A CON K 76 Y 79,18,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+436,Kiosco Barrio Lourdes,Kiosco,K 73 CON 1E O,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+437,Unidad Recreativa Lourdes,Cancha De Futbol 11 Cancha Múltiple Juegos Infantiles,K 70 # 1A - 13,18,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+438,Parque Recreativo Barrio Alférez Real,Cancha Múltiple Juegos Infantiles,C 3 CON 73,18,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+439,Parque Recreativo Barrio Nápoles,Cancha Múltiple Pista Trote Juegos Infantiles,K 78 CON C 3D,18,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+440,Parque Recreativo Los Mandarinos ,Cancha Múltiple Juegos Infantiles,C 2B O CON K 94,18,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+441,Parque Recreativo Escobar Navia Barrio Lourdes,Cancha Múltiple Juegos Infantiles,C 1B CON K 73D,18,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+442,Barrio Alto Nápoles Sector Polvo Rojo,Cancha De Futbol 11 Juegos Infantiles,K 78A Y 80 CON C 2 Y 2A,18,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+443,Parque Recreativo El Refugio,Cancha Futbol 5 Cancha Baloncesto Pista Trote,C 3 CON K 66B Y 67,19,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+444,Parque Recreativo Camino Real,Cancha Baloncesto Juegos Infantiles,C 8F Y 8G CON K 52,19,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+445,Parque Recreativo El Limonar,Cancha Múltiple Pista Trote Juegos Infantiles,C 9 Y 9D CON K 62 Y 62C,19,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+446,Parque Recreativo Joaquín Botero Sinisterra,Cancha Baloncesto Juegos Infantiles,C 6 CON K 59A,19,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+447,Parque Recreativo Pampalinda,Cancha Futbol 8 Cancha Futbol 5 Cancha Múltiple Pista Trote Juegos Infantiles,C 2 Y 2A CON K 57 Y 63A,19,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+448,Parque Recreativo Urbanización Niza,Pista Trote Juegos Infantiles,C 9D CON K 61,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+449,Parque Recreativo Los Cambulos,Cancha Múltiple Juegos Infantiles,C 9C CON K 42A,19,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+450,Polideportivo La Cascada,Cancha De Futbol 11 Pista Trote Juegos Infantiles,C 2 Y 3C CON K 65,19,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+451,Unidad Deportiva Alberto Galindo,,K 52 CON  C 22,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,Unidad Recreativa Cañaveralejo,Cancha Múltiple Pista Trote Piscinas Adultos Piscinas Niños,C 6A # 62 - 59,19,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+453,Unidad Recreativa Santiago De Cali,Cancha Multipe Piscina Niños,C 5E # 46 - 55,19,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+454,Unidad Recreativa Club Tequendama,Cancha De Futbol 11 Cancha Futbol 8 Cancha Futbol 5 Cancha Baloncesto Cancha Voleibol Cancha Tenis Piscina Adultos Piscina Niños Juegos Infantiles, K 53 # 7 - 111,19,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+455,Kiosco Centro Múltiple Adulto Mayor La Cascada,Kiosco,C 2A # 63A - 35,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+456,Cancha Múltiple Barrio Bella Vista,Cancha Múltiple,K 3 O CON C 14,19,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,Cancha De Futbol El Pascualito,Cancha De Futbol 11 Cancha Futbol 8 (2),K 50 CON C 2,19,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,Cancha De Baloncesto El Refugio,Cancha Baloncesto,C 2A CON K 63A,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,Parque Campagnat,,T 19 CON K 18,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,Cancha Múltiple Barrio Belen ,Cancha Futbol 5 Juegos Infantiles,K 38 CON C 3 O,20,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+461,Cancha Múltiple El Mango Parte Baja,Cancha Múltiple,D 51 CON C 16 O,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,Cancha De Futbol 5 El Pascualito Pueblo Joven,Cancha Futbol 5,K 53 CON C 13 O,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,Cancha De Futbol 5 Los Mangos Pueblo Joven,Cancha Futbol 5 ,K 53 CON C 13A O,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,Cancha De Futbol  Barrio Cañaveralejo,Cancha De Futbol 11,D 53 CON C 12 O,20,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+465,Cancha Urbanización Venezuela,Cancha Futbol 8 (2),D 53 CON C 9 O,20,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,Cancha Múltiple Luis Lopez Mesa,Cancha Múltiple, K 42B Y 43 CON C2,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,Polideportivo La Horqueta,Cancha Múltiple Cancha Sintética Juegos Infantiles,C 1 O # 48 - 05,20,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+468,Escuela Luis Lopez Mesa,,K 42B BIS CON C 3 O,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,Parque Recreativo Belisario Caicedo,Cancha Múltiple Juegos Infantiles,K 54 CON C 1A,20,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+470,Unidad Recreativa La Estrella,Cancha De Futbol 11 Cancha Múltiple (2) Piscina Niños,K 42 Y 44 CON C 8 O,20,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0
+471,Parque Recreativo Lleras Camargo,Cancha Futbol 5 Juegos Infantiles,K 49A CON C 16 O,20,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+472,Cancha De Futbol Barrio Pizamos I,Cancha De Futbol 11,C 122D CON K 28F 2,21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,Cancha De Futbol Valle Grande,Cancha Futbol 5,C 84C CON K 20,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,Cancha Múltiple (1) Barrrio Compartir,Cancha Múltiple Juegos Infantiles,C 101D CON K 22A,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+475,Cancha Múltiple (2) Barrio Compartir La Caldera,Cancha Múltiple Juegos Infantiles,C 101D CON K 22B,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+476,Cancha Múltiple (3) Barrio Compartir ,Cancha Múltiple,C 101D CON K 23A,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Cancha Múltiple (4) Barrio Compartir,Cancha Múltiple,C 102 CON K 24B,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+478,Cancha Múltiple (5) Barrio Compartir ,Cancha Múltiple,C 102F Y 102G CON K 24B,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,Cancha Múltiple ((6) Barrio Compartir,Cancha Múltiple,C 102 CON K 23B,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+480,Cancha Múltiple Alameda Barrio Sol De Oriente,Cancha De Futbol 11 Cancha Múltiple,C 112 CON K 25,21,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,Cancha Múltiple Barrio Pradera,Cancha Múltiple,C 122B CON K 28 BIS,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,Unidad Recreativa Invicali Desepaz,Cancha Múltiple Juegos Infantiles Piscina Niños Piscina Adultos,K 20 Y 23 CON C 120D Y 120G,21,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+483,Unidad Recreativa Calimio Desepaz,Cancha Futbol 5 Cancha Sintética Cancha Baloncesto (2) Pista Trote Piscina Niños Piscina Adultos,K 26M 3 # 121 - 97,21,2,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0
+484,Kiosco Barrio Compartir,Kiosco,C 102 CON K 23,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+485,Parque Recreativo Los Carretilleros Potrero Grande,Cancha Múltiple Juegos Infantiles,C 126 CON K 28C 4,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+486,Cancha De Futbol Barrio Talanga,Cancha De Futbol 11,C 94A CON K 23,21,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,Parque Recreativo Talanga Iv,Cancha Múltiple Juegos Infantiles,C 94 CON K 24,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+488,Cancha Múltiple Barrio Talanga,,C 99 CON K 23,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,Polideportivo Potrero Grande Sector 3,Cancha Múltiple Pista Trote,C 125 CON K 28C 8,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+490,Polideportivo Sol De Oriente,Cancha De Futbol 11 Cancha Múltiple,C 123A CON K 28E,21,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,Polideportivo Talanga I,Cancha Sintética Cancha Múltiple,K 24D Y 24G CON C 85 Y 87,21,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+492,Parque Recreativo Suerte 90,Cancha Múltiple Juegos Infantiles,C 125B CON K 28F Y 28G,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+493,Cancha Múltiple Remansos I,Cancha Múltiple,C 125B CON K26H 4,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Cancha Múltiple Los Remansos II,Cancha Múltiple Juegos Infantiles,C 126 CON K 26I 1 Y 26I 2,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+495,Cancha Múltiple Los Remansos III,Cancha Múltiple Cancha Futbol 8,C 123C CON K 26I,21,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,Parque Recreativo Los Lideres,Cancha Múltiple Pista Trote Juegos Infantiles Kiosco,C 122 CON K 26I,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0
+497,Parque Recreativo Invicali Desepaz,Cancha Múltiple (2),C 123 Y 124 CON K 26A BIS,21,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,Kiosco Ciudadela Del Rio II ,Kiosco,C 112 CON K 23 ,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+499,Parque Recreativo Ciudadela Del Rio II,Cancha Múltiple Pista Trote Juegos Infantiles,C 120 CON 23 Y 25,21,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+500,Kiosco Pizamos I,Kiosco,C 122 CON K 28F 6,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+501,Kiosco Pizamos III,Kiosco,K 28D 8 CON C 120B,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+502,Kiosco Recreativo Barrio Tercer Milenio,Kiosco,C 121 # 28E - 20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+503,Kiosco Ciudadela Del Rio I,Kiosco,C 122 CON K 23,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+504,Kiosco Remansos De Comfandi,Kiosco,K 26J CON C 121B,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+505,Kiosco Suerte 90,Kiosco,C 126 CON K 28F,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+506,Kiosco Barrio Compartir,Kiosco,C 102 CON K 23,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+507,Polideportivo Pizamos III,Cancha Sintética Cancha Múltiple,C 120 CON K 28D,21,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+508,Parque Recreativo Longitudinal Valle Grande,Cancha Múltiple (2) Juegos Infantiles,C 77 CON K 20 Y 23,21,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+509,Polideportivo Valle Grande,Cancha Múltiple Kiosco,K 24F CON C 82B,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+510,Polideportivo Valle Del Lili,Cancha Futbol 5 Cancha Múltiple Cancha Sintética Juegos Infantiles,K 102 CON C 20,22,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
